@@ -3,7 +3,7 @@
 ![](http://7xrthw.com1.z0.glb.clouddn.com/cdn.mmtrix.png)
 
 
-个人博客： blog.yangcvo.me
+个人博客： blog.yancy.cc
 
 个人从业系统运维，自动化运维，应用运维，虚拟化运维，大数据运维，行业。
 
